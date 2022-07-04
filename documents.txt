@@ -1,2 +1,4 @@
 name - Nikita
 surname - Nekhay
+sex - male
+age - 18
