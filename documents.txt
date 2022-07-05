@@ -8,4 +8,8 @@ Text from mind:
 Fairy tail and every wheel has its spin
 Fortune of the wind rocked its screen
 Many rails on icky road were displaced with only word
+<<<<<<< HEAD
 Empty line on its own.
+=======
+
+>>>>>>> 5d1fabde3d4668823ad0c589e856890ec6b72f3d
