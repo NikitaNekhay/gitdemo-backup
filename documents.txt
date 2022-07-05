@@ -3,3 +3,9 @@ surname - Nekhay
 sex - male
 age - 18
 country - Belarus
+
+Text from mind:
+Fairy tail and every wheel has its spin
+Fortune of the wind rocked its screen
+Many rails on icky road were displaced with only word
+Empty line on its own.
