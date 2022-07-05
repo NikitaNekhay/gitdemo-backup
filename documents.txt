@@ -2,3 +2,6 @@ name - Nikita
 surname - Nekhay
 sex - male
 age - 18
+country - Belarus
+city - Minsk, Minsk
+lover - no
