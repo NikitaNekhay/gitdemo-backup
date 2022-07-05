@@ -3,4 +3,4 @@ surname - Nekhay
 sex - male
 age - 18
 country - Belarus
-city - Minsk
+city - Minsk, Minsk
