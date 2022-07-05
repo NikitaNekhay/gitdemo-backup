@@ -3,3 +3,6 @@ surname - Nekhay
 sex - male
 age - 18
 country - Belarus
+
+Text from mind:
+
