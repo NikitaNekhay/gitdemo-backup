@@ -2,3 +2,5 @@ profile of this man is very good.
 okay, i agree with you. thnx
 
 man, something is going crazy
+
+hi. we are testing non fast-forward merge. say if all is correct.
