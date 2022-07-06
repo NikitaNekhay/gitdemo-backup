@@ -8,3 +8,5 @@ hi. we are testing non fast-forward merge. say if all is correct.
 so we made fast-forward :(
 
 now i will make it!
+
+i am answering: yeah baby!!
