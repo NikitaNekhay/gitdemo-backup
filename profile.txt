@@ -4,3 +4,5 @@ okay, i agree with you. thnx
 man, something is going crazy
 
 hi. we are testing non fast-forward merge. say if all is correct.
+
+so we made fast-forward :(
